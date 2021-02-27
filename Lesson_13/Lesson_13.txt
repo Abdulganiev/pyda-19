@@ -1,1 +1,1 @@
-'Исключения и обработка ошибок' 
+Exceptions and error handling 

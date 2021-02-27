@@ -1,1 +1,1 @@
-'Работа с файловой системой и модули-предлекционные записи' 
+Working with the file system and modules-pre-selection records 

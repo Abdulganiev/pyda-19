@@ -1,1 +1,1 @@
-'Основы Python- предлекционный материал' 
+Python Basics-pre-lecture material 

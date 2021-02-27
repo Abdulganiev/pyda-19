@@ -1,1 +1,1 @@
-'Регулярные выражения и основы синтаксического разбора' 
+Regular expressions and basic parsing 

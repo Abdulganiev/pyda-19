@@ -1,1 +1,1 @@
-'Понятие класса' 
+The concept of a class 

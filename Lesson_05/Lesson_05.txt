@@ -1,1 +1,1 @@
-'Управляющие конструкции и коллекции- предлекционный материал часть 2' 
+Control structures and collections-pre-collection material part 2 

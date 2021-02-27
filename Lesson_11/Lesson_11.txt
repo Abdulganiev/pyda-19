@@ -1,1 +1,1 @@
-'Работа с файловой системой и модули' 
+Working with the file system and modules 

@@ -1,1 +1,1 @@
-'Основы Git' 
+Git Basics 
