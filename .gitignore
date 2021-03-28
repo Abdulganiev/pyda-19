@@ -1,2 +1,4 @@
 *.pdf
+*.ppt*
 .ipynb_checkpoints/
+Untitled*.ipynb
