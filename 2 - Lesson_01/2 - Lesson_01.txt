@@ -1,1 +1,0 @@
-The numpy library. Computational problems-pre-selection material 

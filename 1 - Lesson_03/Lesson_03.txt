@@ -1,1 +1,0 @@
-The Basics Of Python. Control structures and collections 
