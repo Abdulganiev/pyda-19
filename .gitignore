@@ -2,3 +2,7 @@
 *.ppt*
 .ipynb_checkpoints/
 Untitled*.ipynb
+ml-20m
+ml-20m/*
+tag-genome
+tag-genome/*
